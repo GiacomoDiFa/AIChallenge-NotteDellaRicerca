@@ -1,0 +1,29 @@
+
+{
+    "texts":[
+        {
+            "text":"Non puoi sfuggire all'IA... \nma puoi sempre riprovare",
+            "voice":"1robot.wav"
+        },
+        {
+            "text":"Prova ancora! Ma sappi che \nall'IA non sfugge nulla!",
+            "voice":"2robot.wav"
+        },
+        {
+            "text":"Non disperare, anche i \nmigliori vengono trovati!",
+            "voice":"3robot.wav"
+        },
+        {
+            "text":"Trovato! Ma dai, \nstai migliorando",
+            "voice":"4robot.wav"
+        },
+        {
+            "text":"Hai giocato bene, ma \nl'IA ha occhi ovunque",
+            "voice":"5robot.wav"
+        },
+        {
+            "text":"Trovato! Prova a \ncambiare maschera!",
+            "voice":"6robot.wav"
+        }
+    ]
+}
